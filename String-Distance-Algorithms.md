@@ -1,7 +1,9 @@
 Mailcheck uses the sift3 string distance algorithm by default. We are always on the lookout for better alternatives, so send in your pull requests! Meanwhile, we have consolidated contributed alternatives below. You can pass them into the `Kicksend.mailcheck` method.
 
 ## Levenshtein Distance
-Returns the strings' edit distance taking into account deletion, insertion, and substitution. Contributed by [hpshelton](https://github.com/hpshelton).
+Returns the strings' edit distance taking into account deletion, insertion, and substitution.
+
+Contributed by [hpshelton](https://github.com/hpshelton).
 
 ```javascript
 function levenshteinDistance(s, t) {
@@ -44,7 +46,11 @@ function levenshteinDistance(s, t) {
 }
 ```
 ## 'Optimal' String-Alignment Distance
-This is a variation of the Damerau-Levenshtein distance that returns the strings' edit distance taking into account deletion, insertion, substitution, and transposition, under the condition that no substring is edited more than once. Contributed by [hpshelton](https://github.com/hpshelton).
+This is a variation of the Damerau-Levenshtein distance that returns the strings' edit distance taking into account deletion, insertion, substitution, and transposition, under the condition that no substring is edited more than once. 
+
+For example, `optimalStringAlignmentDistance('ca', 'abc') == 3` because if the transposition 'ca' -> 'ac' is used, it is not possible to use the insertion 'ac' -> 'abc'. The shortest sequence of operations is 'ca' -> 'a' -> 'ab' -> 'abc'. 
+
+Contributed by [hpshelton](https://github.com/hpshelton).
 
 ```javascript
 function optimalStringAlignmentDistance(s, t) {
