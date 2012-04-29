@@ -155,3 +155,28 @@ function damerauLevenshteinDistance(s, t) {
   return d[m][n];
 }
 ```
+## Performance
+1000 randomly-generated email addresses were compared against the built-in domain list using the specified algorithm to determine an average comparison time. These average comparison times were then averaged over multiple experiments for some sort of semi-scientific-y conclusion. The following times were determined in Chrome on a MacBook Pro (3,1) with a 2.4 GHz Intel Core 2 Duo processor and 2 GB of RAM. Actual performance will vary by email addresses, domains, and client machine.
+
+<table>
+    <tr>
+        <th>Algorithm</th>
+        <th>Runtime</th>
+    </tr>
+    <tr>
+        <td>Sift3 Distance</td>
+        <td>0.03-0.04ms</td>
+    </tr>
+    <tr>
+        <td>Levenshtein Distance</td>
+        <td>0.10-0.20ms</td>
+    </tr>
+    <tr>
+        <td>Optimal String Alignment Distance</td>
+        <td>0.20-0.30ms</td>
+    </tr>
+    <tr>
+        <td>Damerau-Levenshtein Distance</td>
+        <td>0.40-0.50ms</td>
+    </tr>
+</table>
