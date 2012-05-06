@@ -179,4 +179,9 @@ function damerauLevenshteinDistance(s, t) {
         <td>Damerau-Levenshtein Distance</td>
         <td>0.40-0.50ms</td>
     </tr>
+    <tr>
+        <td>Qwerty Keyboard Distance</td>
+        <td>1.00-1.55ms*</td>
+    </tr>
 </table>
+*Caching affects the performance of this method, which results in very different runtimes depending on the input; the algorithm can perform as well as the Damerau-Levenshtein algorithm in some cases.
