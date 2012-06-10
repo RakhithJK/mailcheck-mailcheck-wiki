@@ -33,7 +33,10 @@ var domains = [
 "gmx.de", "hotmail.de", "live.de", "online.de", "t-online.de" /* T-Mobile */, "web.de", "yahoo.de",
 
 /* Russian ISP domains */
-"mail.ru", "rambler.ru", "yandex.ru"
+"mail.ru", "rambler.ru", "yandex.ru",
+
+/* Belgian ISP domains */
+"hotmail.be", "live.be", "skynet.be"
 
 ];
 ```
