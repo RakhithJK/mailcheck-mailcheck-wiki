@@ -27,7 +27,7 @@ var domains = [
 "sina.com", "qq.com",
 
 /* French ISP domains */
-"hotmail.fr", "live.fr", "yahoo.fr",
+"hotmail.fr", "live.fr", "laposte.net", "yahoo.fr",
 
 /* German ISP domains */
 "gmx.de", "hotmail.de", "live.de", "online.de", "t-online.de" /* T-Mobile */, "web.de", "yahoo.de",
