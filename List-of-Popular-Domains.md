@@ -36,7 +36,7 @@ var domains = [
 "mail.ru", "rambler.ru", "yandex.ru"
 
 /* Belgian ISP domains */
-"hotmail.be", "live.be", "skynet.be"
+"hotmail.be", "live.be", "skynet.be", "voo.be", "tvcablenet.be"
 
 /* Argentinian ISP domains */
 "hotmail.com.ar", "live.com.ar", "yahoo.com.ar", "fibertel.com.ar", "speedy.com.ar", "arnet.com.ar"
