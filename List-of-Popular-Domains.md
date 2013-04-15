@@ -21,7 +21,7 @@ var domains = [
 /* British ISP domains */
 "btinternet.com", "virginmedia.com", "blueyonder.co.uk", "freeserve.co.uk", "live.co.uk",
 "ntlworld.com", "o2.co.uk", "orange.net", "sky.com", "talktalk.co.uk", "tiscali.co.uk",
-"virgin.net", "wanadoo.co.uk"
+"virgin.net", "wanadoo.co.uk", "bt.com"
 
 /* Chinese ISP domains */
 "sina.com", "qq.com"
