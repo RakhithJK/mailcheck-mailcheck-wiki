@@ -4,7 +4,6 @@ The list is sorted in (mostly) alphabetical order by country and then by domain.
 
 ```javascript
 var domains = [
-
   /* Default domains included */
   "aol.com", "att.net", "comcast.net", "facebook.com", "gmail.com", "gmx.com", "googlemail.com",
   "google.com", "hotmail.com", "hotmail.co.uk", "mac.com", "me.com", "mail.com", "msn.com",
@@ -13,7 +12,7 @@ var domains = [
   /* Other global domains */
   "email.com", "games.com" /* AOL */, "gmx.net", "hush.com", "hushmail.com", "inbox.com",
   "lavabit.com", "love.com" /* AOL */, "pobox.com", "rocketmail.com" /* Yahoo */,
-  "safe-mail.net", "wow.com" /* AOL */, "ygm.com" /* AOL */, "ymail.com" /* Yahoo */, "zoho.com",
+  "safe-mail.net", "wow.com" /* AOL */, "ygm.com" /* AOL */, "ymail.com" /* Yahoo */, "zoho.com", "fastmail.fm",
 
   /* United States ISP domains */
   "bellsouth.net", "charter.net", "cox.net", "earthlink.net", "juno.com",
@@ -23,8 +22,8 @@ var domains = [
   "ntlworld.com", "o2.co.uk", "orange.net", "sky.com", "talktalk.co.uk", "tiscali.co.uk",
   "virgin.net", "wanadoo.co.uk", "bt.com",
 
-  /* Chinese ISP domains */
-  "sina.com", "qq.com",
+  /* Domains used in Asia */
+  "sina.com", "qq.com", "naver.com", "hanmail.net", "daum.net", "nate.com", "yahoo.co.jp", "yahoo.co.kr", "yahoo.co.id", "yahoo.co.in", "yahoo.com.sg", "yahoo.com.ph",
 
   /* French ISP domains */
   "hotmail.fr", "live.fr", "laposte.net", "yahoo.fr", "wanadoo.fr", "orange.fr", "gmx.fr", "sfr.fr", "neuf.fr", "free.fr",
@@ -43,6 +42,5 @@ var domains = [
 
   /* Domains used in Mexico */
   "hotmail.com", "gmail.com", "yahoo.com.mx", "live.com.mx", "yahoo.com", "hotmail.es", "live.com", "hotmail.com.mx", "prodigy.net.mx", "msn.com"
-
 ];
 ```
