@@ -32,7 +32,7 @@ var domains = [
   "gmx.de", "hotmail.de", "live.de", "online.de", "t-online.de" /* T-Mobile */, "web.de", "yahoo.de",
 
   /* Russian ISP domains */
-  "mail.ru", "rambler.ru", "yandex.ru",
+  "mail.ru", "rambler.ru", "yandex.ru", "ya.ru", "list.ru",
 
   /* Belgian ISP domains */
   "hotmail.be", "live.be", "skynet.be", "voo.be", "tvcablenet.be", "telenet.be",
