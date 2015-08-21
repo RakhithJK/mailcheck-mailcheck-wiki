@@ -10,12 +10,12 @@ var domains = [
   "live.com", "sbcglobal.net", "verizon.net", "yahoo.com", "yahoo.co.uk",
 
   /* Other global domains */
-  "email.com", "games.com" /* AOL */, "gmx.net", "hush.com", "hushmail.com", "inbox.com",
-  "lavabit.com", "love.com" /* AOL */, "pobox.com", "rocketmail.com" /* Yahoo */,
+  "email.com", "games.com" /* AOL */, "gmx.net", "hush.com", "hushmail.com", "icloud.com", "inbox.com",
+  "lavabit.com", "love.com" /* AOL */, "outlook.com", "pobox.com", "rocketmail.com" /* Yahoo */,
   "safe-mail.net", "wow.com" /* AOL */, "ygm.com" /* AOL */, "ymail.com" /* Yahoo */, "zoho.com", "fastmail.fm",
 
   /* United States ISP domains */
-  "bellsouth.net", "charter.net", "cox.net", "earthlink.net", "juno.com",
+  "bellsouth.net", "charter.net", "comcast.net", "cox.net", "earthlink.net", "juno.com",
 
   /* British ISP domains */
   "btinternet.com", "virginmedia.com", "blueyonder.co.uk", "freeserve.co.uk", "live.co.uk",
