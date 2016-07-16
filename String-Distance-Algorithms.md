@@ -1,4 +1,6 @@
-Mailcheck uses the sift3 string distance algorithm by default. We are always on the lookout for better alternatives, so send in your pull requests! Meanwhile, we have consolidated contributed alternatives below. You can pass them into the `Kicksend.mailcheck` method.
+Mailcheck uses the sift3 string distance algorithm by default. Just pass your preferred string distance function into `distanceFunction` when using mailcheck.
+
+We are always on the lookout for better alternatives, so send in your pull requests! Meanwhile, we have consolidated contributed alternatives below.
 
 ## Levenshtein Distance
 Returns the strings' edit distance taking into account deletion, insertion, and substitution.
