@@ -32,6 +32,9 @@ var domains = [
   /* German ISP domains */
   "gmx.de", "hotmail.de", "live.de", "online.de", "t-online.de" /* T-Mobile */, "web.de", "yahoo.de",
 
+  /* Italian ISP domains */
+  "libero.it", "virgilio.it", "hotmail.it", "aol.it", "tiscali.it", "alice.it", "live.it", "yahoo.it", "email.it", "tin.it", "poste.it", "teletu.it",
+
   /* Russian ISP domains */
   "mail.ru", "rambler.ru", "yandex.ru", "ya.ru", "list.ru",
 
