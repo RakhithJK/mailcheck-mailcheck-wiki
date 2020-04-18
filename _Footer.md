@@ -1,1 +1,1 @@
-Thank you for this valuable list. I have a question. Does this list contain those email domains which belong to a company or organization and can be only used by its employees?
+-
