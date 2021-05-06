@@ -19,9 +19,9 @@ var domains = [
   "bellsouth.net", "charter.net", "cox.net", "earthlink.net", "juno.com",
 
   /* British ISP domains */
-  "btinternet.com", "virginmedia.com", "blueyonder.co.uk", "freeserve.co.uk", "live.co.uk",
-  "ntlworld.com", "o2.co.uk", "orange.net", "sky.com", "talktalk.co.uk", "tiscali.co.uk",
-  "virgin.net", "wanadoo.co.uk", "bt.com",
+  "btinternet.com", "virginmedia.com", "blueyonder.co.uk", "live.co.uk",
+  "ntlworld.com", "orange.net", "sky.com", "talktalk.co.uk", "tiscali.co.uk",
+  "virgin.net", "bt.com",
 
   /* Domains used in Asia */
   "sina.com", "sina.cn", "qq.com", "naver.com", "hanmail.net", "daum.net", "nate.com", "yahoo.co.jp", "yahoo.co.kr", "yahoo.co.id", "yahoo.co.in", "yahoo.com.sg", "yahoo.com.ph", "163.com", "yeah.net", "126.com", "21cn.com", "aliyun.com", "foxmail.com",
@@ -51,6 +51,6 @@ var domains = [
   "yahoo.ca", "hotmail.ca", "bell.net", "shaw.ca", "sympatico.ca", "rogers.com",
 
   /* Domains used in Brazil */
-  "yahoo.com.br", "hotmail.com.br", "outlook.com.br", "uol.com.br", "bol.com.br", "terra.com.br", "ig.com.br", "itelefonica.com.br", "r7.com", "zipmail.com.br", "globo.com", "globomail.com", "oi.com.br"
+  "yahoo.com.br", "hotmail.com.br", "outlook.com.br", "uol.com.br", "bol.com.br", "terra.com.br", "ig.com.br", "r7.com", "zipmail.com.br", "globo.com", "globomail.com", "oi.com.br"
 ];
 ```
