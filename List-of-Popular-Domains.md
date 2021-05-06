@@ -36,7 +36,7 @@ var domains = [
   "libero.it", "virgilio.it", "hotmail.it", "aol.it", "tiscali.it", "alice.it", "live.it", "yahoo.it", "email.it", "tin.it", "poste.it", "teletu.it",
 
   /* Russian ISP domains */
-  "mail.ru", "rambler.ru", "yandex.ru", "ya.ru", "list.ru",
+  "bk.ru", "inbox.ru", "list.ru", "mail.ru", "rambler.ru", "yandex.by", "yandex.com", "yandex.kz", "yandex.ru", "yandex.ua", "ya.ru",
 
   /* Belgian ISP domains */
   "hotmail.be", "live.be", "skynet.be", "voo.be", "tvcablenet.be", "telenet.be",
